@@ -32,8 +32,6 @@ IT Specialist · CompTIA Certified · Aspiring Penetration Tester
 | 🔄 | **CompTIA Network+ (N10-009)** | CompTIA | In Progress | 2025 |
 | 🔄 | **CompTIA Security+ (SY0-701)** | CompTIA | In Progress | 2025 |
 | 🎖️ | **Cambridge Technical IT** | OCR | Distinction | 2024 |
-| 🎖️ | **BTEC Media** | Pearson | Merit | 2024 |
-| 🎖️ | **BTEC Business** | Pearson | Merit | 2024 |
 
 > 📌 *This section will be updated as new certifications are earned.*
 
