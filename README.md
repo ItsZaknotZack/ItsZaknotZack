@@ -6,7 +6,7 @@
 IT Specialist · CompTIA Certified · Aspiring Penetration Tester
 
 [![Location](https://img.shields.io/badge/📍-Hayes%2C%20London%2C%20UK-blue?style=flat-square)](https://github.com/ItsZaknotZack)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](www.linkedin.com/in/sakariye-fidhin-3b86a226a)
 
 </div>
 
